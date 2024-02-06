@@ -1,0 +1,20 @@
+NPCs: {
+	Willy: {
+		TownNPCMood: {
+			LoveSpace: I love having so much space.
+			FarFromHome: I am too far from home.
+			NoHome: I hate not having a home.
+			Content: I am content.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			HateBiome: I hate {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+
+		DisplayName: Willy
+	}
+}
