@@ -129,7 +129,8 @@ namespace Willy.Content.NPCs
                 {
                     continue;
                 }
-                if (player.inventory.Any(item => item.type == ItemID.SittingDucksFishingRod))
+				// checks if skeletron is down
+                if (NPC.downedBoss3)
                 {
                     return true;
                 }
